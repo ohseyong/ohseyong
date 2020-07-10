@@ -1,4 +1,5 @@
 ### Hi there 👋
+별볼일 없는 저장소를 찾아주셔서 감사합니다. 
 
 <!--
 **ohseyong/ohseyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
