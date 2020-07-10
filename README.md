@@ -1,5 +1,6 @@
 ### Hi there 👋
-별볼일 없는 저장소를 찾아주셔서 감사합니다. 
+아직 별 볼일 없는 저장소를 찾아주셔서 감사합니다.
+가치있는 저장소를 만들기 위해 열심히 공부하고 노력하겠습니다.
 
 <!--
 **ohseyong/ohseyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
