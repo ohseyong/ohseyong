@@ -2,8 +2,6 @@
 아직 별 볼일 없는 저장소를 찾아주셔서 감사합니다.
 가치있는 저장소를 만들기 위해 열심히 공부하고 노력하겠습니다.
 
-저는 현재 42 Seoul에서 공부하는 법을 공부하고 있습니다. (오타가 아닙니다)
-
 <!--
 **ohseyong/ohseyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
